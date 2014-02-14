@@ -1,0 +1,11 @@
+Search Oponent
+
+"As a" player
+"I want to" see if there is someone waiting to play in the network
+"In order to" know who wants to play
+
+Start A Game
+
+"As a" player
+"I want to" select another player in the network
+"In order to" start a game
