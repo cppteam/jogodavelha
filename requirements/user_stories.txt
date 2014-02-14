@@ -9,3 +9,11 @@ Start A Game
 "As a" player
 "I want to" select another player in the network
 "In order to" start a game
+
+Check Victory
+
+"As a" board
+"I want to" check my actual state
+"In order to" check if a player won or the game tied
+
+
